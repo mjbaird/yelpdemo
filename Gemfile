@@ -19,3 +19,4 @@ gem 'carrierwave'
 gem "fog"
 gem "nokogiri", '~>1.6.6.1'
 gem "figaro"
+gem "mini_magick"
