@@ -17,6 +17,7 @@ gem 'rails_12factor', group: :production
 gem 'pg', group: :production
 gem 'carrierwave'
 gem "fog"
-gem "nokogiri", '~>1.6.6.1'
-gem "figaro"
-gem "mini_magick"
+gem 'nokogiri', '~>1.6.6.1'
+gem 'figaro'
+gem 'mini_magick'
+gem 'devise'
